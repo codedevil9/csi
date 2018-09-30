@@ -6,7 +6,7 @@ https://github.com/hva-cybersec/CSI
 
 Explanation about the code can be found as comment's in the code itself.
 
-The CSI Token Generator can be found on http://localhost:8080
+To start the CSI Token Generator you need to run "node server.js" in the same folder where the server.js is located the CSI Token Generator can then be found on http://localhost:8080
 
 If everything is working correctly you should see this:
 
