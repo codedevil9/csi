@@ -7,7 +7,7 @@ const app = express();
 // Serve files from the public directory.
 app.use(express.static('public'));
 
-// Receive session token.
+// Receive session token with a json post to the CSI login service.
 app.get('/token', (req, res, next) => {
     request({
         method: 'POST',
