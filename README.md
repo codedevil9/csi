@@ -10,9 +10,11 @@ The CSI Token Generator can be found on http://localhost:8080
 If everything is working correctly you should see this:
 
 The login page:
+
 ![alt text](https://i.imgur.com/WuC0WG8.jpg)
 
 The token generator:
+
 ![alt text](https://i.imgur.com/mdJEL3p.jpg)
 
 
