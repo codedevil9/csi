@@ -6,3 +6,4 @@ https://github.com/hva-cybersec/CSI
 
 Explanation about the code can be found as comment's in the code itself :)
 
+Our full solution is still missing a login system and containerized version of the csi app. This will be added later
